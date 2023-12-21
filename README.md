@@ -1,2 +1,4 @@
 # zsh-git-funcs
-Some git functions for zsh (they may work in bash as well)
+Some git functions for zsh
+
+This code is mostly not mine, save for some alterations. It's here because I want to use it with antigen.
